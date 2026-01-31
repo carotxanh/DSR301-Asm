@@ -1,5 +1,0 @@
-email,fullName,phone,password,isActive,roles
-buyer01@example.com,Nguyen Van An,0901112221,password123,true,BUYER
-seller01@example.com,Tran Thi Binh,0901112222,password123,true,SELLER
-multirole@example.com,Le Van Canh,0901112223,password123,true,"BUYER,SELLER"
-inactive_user@example.com,Pham Thi Dung,0901112224,password123,false,BUYER
